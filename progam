@@ -11,16 +11,16 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					nameForLogging : 'Black people', //Will be used in the logging
 					//An array of all media objects for this category.
 					mediaArray : [
-					    {image : 'aaf1.bmp'}, 
-						{image : 'aaf2.bmp'}, 
-						{image : 'aaf3.bmp'}, 
-						{image : 'aaf4.bmp'}, 
-						{image : 'aaf5.bmp'}, 
-						{image : 'aam1.bmp'}, 
-						{image : 'aam2.bmp'}, 
-						{image : 'aam3.bmp'}, 
-						{image : 'aam4.bmp'}, 
-						{image : 'aam5.bmp'}]
+					    {image : 'AAF1.bmp'}, 
+						{image : 'AAF2.bmp'}, 
+						{image : 'AAF3.bmp'}, 
+						{image : 'AAF4.bmp'}, 
+						{image : 'AAF5.bmp'}, 
+						{image : 'AAM1.bmp'}, 
+						{image : 'AAM2.bmp'}, 
+						{image : 'AAM3.bmp'}, 
+						{image : 'AAM4.bmp'}, 
+						{image : 'AAM5.bmp'}]
 	
 
 				}, 
