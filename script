@@ -34,7 +34,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 						{image : 'WhFBl3.bmp'}, 
 						{image : 'WhFBl4.bmp'}, 
 						{image : 'WhFBl5.bmp'}, 
-						{image : 'WhMBl1.bpm'}, 
+						{image : 'WhMBl1.bmp'}, 
 						{image : 'WhMBl2.bmp'}, 
 						{image : 'WhMBl3.bmp'}, 
 						{image : 'WhMBl4.bmp'}, 
