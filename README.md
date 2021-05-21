@@ -10,18 +10,16 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'Black people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'b01.jpg'}, 
-					{image : 'b02.jpg'}, 
-					{image : 'b03.jpg'}, 
-					{image : 'b04.jpg'}, 
-					{image : 'b05.jpg'}, 
-					{image : 'b06.jpg'}, 
-					{image : 'b07.jpg'}, 
-					{image : 'b08.jpg'}, 
-					{image : 'b09.jpg'}, 
-					{image : 'b10.jpg'}, 
-					{image : 'b11.jpg'}, 
-					{image : 'b12.jpg'}]
+				    {image : 'aaf1.bmp'}, 
+					{image : 'aaf2.bmp'}, 
+					{image : 'aaf3.bmp'}, 
+					{image : 'aaf4.bmp'}, 
+					{image : 'aaf5.bmp'}, 
+					{image : 'aam1.bmp'}, 
+					{image : 'aam2.bmp'}, 
+					{image : 'aam3.bmp'}, 
+					{image : 'aam4.bmp'}, 
+					{image : 'aam5.bmp'}]
 
 			}, 
 			{
@@ -29,18 +27,16 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'White people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'w01.jpg'}, 
-					{image : 'w02.jpg'}, 
-					{image : 'w03.jpg'}, 
-					{image : 'w04.jpg'}, 
-					{image : 'w05.jpg'}, 
-					{image : 'w06.jpg'}, 
-					{image : 'w07.jpg'}, 
-					{image : 'w08.jpg'}, 
-					{image : 'w09.jpg'}, 
-					{image : 'w10.jpg'}, 
-					{image : 'w11.jpg'}, 
-					{image : 'w12.jpg'}]
+				    {image : 'WhFBl1.bmp'}, 
+					{image : 'WhFBl2.bmp'}, 
+					{image : 'WhFBl3.bmp'}, 
+					{image : 'WhFBl4.bmp'}, 
+					{image : 'WhFBl5.bmp'}, 
+					{image : 'WhMBl1.bpm'}, 
+					{image : 'WhMBl2.bmp'}, 
+					{image : 'WhMBl3.bmp'}, 
+					{image : 'WhMBl4.bmp'}, 
+					{image : 'WhMBl5.bmp'}]
 			}
 		],
 
@@ -52,7 +48,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/ampImages'
+			image : 'https://satchmo496.github.io/minno-tasks/images/ampImages'
 		}
 	});
 });
