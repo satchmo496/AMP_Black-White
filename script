@@ -69,5 +69,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				image : 'https://satchmo496.github.io/images/'
 			},
 			
+			trialsInBlock : [24,24], //Number of trials in each block 
+			trialsInExample : 3, //Change to 0 if you don't want an example block
+			
 			});
 	});
